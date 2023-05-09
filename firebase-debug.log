@@ -1,0 +1,21 @@
+[debug] [2023-05-09T14:49:07.617Z] ----------------------------------------------------------------------
+[debug] [2023-05-09T14:49:07.621Z] Command:       D:\nodejs\node.exe C:\Users\kwaka\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-05-09T14:49:07.623Z] CLI Version:   11.30.0
+[debug] [2023-05-09T14:49:07.624Z] Platform:      win32
+[debug] [2023-05-09T14:49:07.624Z] Node Version:  v18.12.1
+[debug] [2023-05-09T14:49:07.749Z] Time:          Tue May 09 2023 14:49:07 GMT+0000 (Greenwich Mean Time)
+[debug] [2023-05-09T14:49:07.750Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-09T14:49:07.794Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-09T14:49:07.796Z] > authorizing via signed-in user (kwakansah2@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\downloads\PROGRAMMING\downlosds\cov\react-firecrud
+
